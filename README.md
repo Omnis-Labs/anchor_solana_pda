@@ -26,7 +26,7 @@ Currently, the program implements one instruction:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/ChiShengChen/anchor_solana_pda.git
+    git clone https://github.com/Omnis-Labs/anchor_solana_pda.git
     cd solana-pda-vault
     ```
 
